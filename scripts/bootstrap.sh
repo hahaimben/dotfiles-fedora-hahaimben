@@ -225,10 +225,10 @@ bash "$DF_SCRIPT_DIR/setup-alacritty.sh"
 bash "$DF_SCRIPT_DIR/setup-neovim.sh"
 
 # Setup Mullvad VPN
-bash "$DF_SCRIPT_DIR/setup-mullvad.sh"
+# bash "$DF_SCRIPT_DIR/setup-mullvad.sh"
 
 # Setup NVIDIA drivers
-bash "$DF_SCRIPT_DIR/setup-nvidia.sh"
+# bash "$DF_SCRIPT_DIR/setup-nvidia.sh"
 
 # Run the setup-docker.sh script to set up Docker
 bash "$DF_SCRIPT_DIR/setup-docker.sh"
@@ -252,13 +252,13 @@ bash "$DF_SCRIPT_DIR/setup-godot.sh"
 bash "$DF_SCRIPT_DIR/setup-postman.sh"
 
 # Install Steam
-bash "$DF_SCRIPT_DIR/setup-steam.sh"
+# bash "$DF_SCRIPT_DIR/setup-steam.sh"
 
 # Install Discord
-bash "$DF_SCRIPT_DIR/setup-discord.sh"
+# bash "$DF_SCRIPT_DIR/setup-discord.sh"
 
 # Install Spotify
-bash "$DF_SCRIPT_DIR/setup-spotify.sh"
+# bash "$DF_SCRIPT_DIR/setup-spotify.sh"
 
 # Install Obsidian
 bash "$DF_SCRIPT_DIR/setup-obsidian.sh"
@@ -270,7 +270,7 @@ bash "$DF_SCRIPT_DIR/setup-zoom.sh"
 bash "$DF_SCRIPT_DIR/link-dotfiles.sh"
 
 # Set up KDE Plasma settings
-bash "$DF_SCRIPT_DIR/setup-kde.sh"
+# bash "$DF_SCRIPT_DIR/setup-kde.sh"
 
 # --------------------------
 # Clean Up
